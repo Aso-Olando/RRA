@@ -95,9 +95,12 @@ th{
 
 .poster_disc{
     position: absolute;
-    width: 30%; padding-top: 200px;
+    width: 30%; padding-top: 150px;
     padding-left: 30px;
     
+}
+#rogue{
+font-size: 22px;
 }
 
 body {
